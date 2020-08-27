@@ -1,4 +1,4 @@
-# Digital Paper 🧮
+# Digital Paper 🖋️
 <hr>
 
 #### 👨🏻‍💻  [About this Project ] : 
