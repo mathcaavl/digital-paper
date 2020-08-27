@@ -8,3 +8,8 @@
 
 ### 👨🏻‍💻  [Techs] :
 #### HTML5 / CSS3 / Javascript :) 
+<hr>
+
+### 🤔 [How to Use] :
+#### Baixe esse projeto ou crie um clone desse repositório no seu computador e abra pelo indice :)
+#### Espero que tenham curtido
